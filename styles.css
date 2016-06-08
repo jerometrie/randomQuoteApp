@@ -1,0 +1,41 @@
+body {
+	background-color: #2980b9;
+	text-align: center;
+	color: #dddddd;
+	font-family: arial, sans-serif;
+	font-size: 1.5em;
+}
+
+#words {
+	text-align: left;
+}
+
+#container {
+	margin: 30px auto;
+	padding: 20px;
+	width: 500px;
+	background-color: #34495e;
+	text-align: right;
+
+	box-shadow: 8px 8px 5px rgba(30, 47, 57, 0.8);
+}
+
+#author {
+	text-align: right;
+	font-size: 0.8em;
+}
+
+button {
+	background-color: #679FC5;
+	border: none;
+	padding: 10px;
+	text-align: center;
+	width: 200px;
+	font-size: 0.6em;
+	color: #dddddd;
+}
+
+button:hover {
+	box-shadow: 8px 8px 5px rgba(30, 47, 57, 0.8);
+}
+
